@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working on **React.js**
+- 🔭 I’m currently working on **Next.js**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Typescript**
 
 - 📫 How to reach me **rovshanalizada@gmail.com**
 
