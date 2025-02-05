@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **ReactJs**
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **rovshanalizada@gmail.com**
 
